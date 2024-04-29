@@ -5,7 +5,7 @@ export default function Role({forwardedRef}) {
       <div className="flex w-full items-center space-x-20">
         <h1 className="text-heading-1 font-medium text-secondary-400 leading-[1.25em] md:leading-[1.08em]">
         {/* I create elevating digital experiences that inspire and connect with people through development and design. */}
-        Fusing electricalengineering with the dynamic landscape of computer science, 
+        Fusing electrical engineering with the dynamic landscape of computer science, 
         on a mission to bridge the gap between electrons and algorithms.
         </h1>
       </div>
