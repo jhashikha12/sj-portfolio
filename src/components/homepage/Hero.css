@@ -1,0 +1,8 @@
+@media screen and (max-width: 1150px) {
+    .title h1 {
+      font-size: 11vw; 
+      margin-bottom:20px
+      /* Adjust the font size as needed */
+    }
+  }
+  
